@@ -1,0 +1,123 @@
+.navbar-brand {
+    font-family: serif;
+}
+.nav-link{
+    font-family: serif;
+
+}
+.dropdown-item{
+    font-family: serif;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    line-height: 37px;
+    padding: 23px;
+}
+#main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 968px;
+}
+#content {
+    width: 544px;
+    padding-left: 23px;
+    padding-right: 23px;
+    float: left;
+    font-size: 16px;
+    line-height: 27px;
+}
+#sidebar {
+    width: 329px;
+    padding-top: 19px;
+    padding-left: 19px;
+    padding-right: 19px;
+    float: right;
+    font-size: 20px;
+    line-height: 18px;
+    text-align: center;
+}
+
+#sidebar h1 {
+    font-size: 23px;
+    line-height: 36px;
+    margin-bottom: 18px;
+    text-align: center;
+}
+#content h1 {
+    font-size: 33px;
+    line-height: 52px;
+    margin-bottom: 27px;
+}
+.grt {
+    font-size: 33px;
+    line-height: 52px;
+    margin-bottom: 27px;
+    color: #6495ed;
+}
+#footer {
+    clear: both;
+    text-align: center;
+}
+h2 {
+    font-size: 36px;
+    line-height: 20px;
+    margin-top: 30px;
+    margin-bottom: 23px;
+}
+
+h3 {
+    font-size: 28px;
+    line-height: 46px;
+    margin-top: 37px;
+    margin-bottom: 14px;
+}
+
+h4 {
+    font-size: 38px;
+    line-height: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+h5 {
+    font-size: 20px;
+    line-height: 35px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+p{
+    font-family: serif;
+}
+.card {
+    border: 1px white;
+    padding: 15px;
+}
+.card-title{
+    font-family: serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.carousel
+{
+    background: #2f4357;
+}
+.carousel-caption{
+    font-family: serif ;
+    text-align: center;
+    min-height: 450px;
+}
+.jumbotron {
+    background-color: lightgray;
+}
+.card {
+    background-color: lightgray;
+}
+
+
+
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60400989-a861-4dd3-a51b-12ca1c28f1bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1llDJfywoBJG1zRpXU1ZT5zkcJQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60400989-a861-4dd3-a51b-12ca1c28f1bc" name="Default Changelist" comment="" />
+      <created>1608162714180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608162714180</updated>
+      <workItem from="1608162715537" duration="18486000" />
+    </task>
+    <task id="LOCAL-00001" summary="task: added initial css and index page">
+      <created>1608163076668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608163076668</updated>
+    </task>
+    <task id="LOCAL-00002" summary="task: added initial css and index page">
+      <created>1608163245316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608163245316</updated>
+    </task>
+    <task id="LOCAL-00003" summary="task: added images">
+      <created>1608174478462</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608174478462</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task: added main hero text/image to about page and added cards">
+      <created>1608174507273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608174507273</updated>
+    </task>
+    <task id="LOCAL-00005" summary="task: added navbar to index.html">
+      <created>1608174525633</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608174525633</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task: added f-layout, text, and images to project.html">
+      <created>1608176708208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608176708208</updated>
+    </task>
+    <task id="LOCAL-00007" summary="task: added favicon.ico">
+      <created>1608177905031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608177905031</updated>
+    </task>
+    <task id="LOCAL-00008" summary="task: added links to buttons, linked to resume">
+      <created>1608178996403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608178996403</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bug: fixed titles">
+      <created>1608179099400</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608179099400</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task: content on about page, link to git hub">
+      <created>1608181169613</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608181169613</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task: added initial css and index page" />
+    <MESSAGE value="task: added images" />
+    <MESSAGE value="task: added main hero text/image to about page and added cards" />
+    <MESSAGE value="task: added navbar to index.html" />
+    <MESSAGE value="task: added f-layout, text, and images to project.html" />
+    <MESSAGE value="task: added favicon.ico" />
+    <MESSAGE value="task: added links to buttons, linked to resume" />
+    <MESSAGE value="bug: fixed titles" />
+    <MESSAGE value="task: content on about page, link to git hub" />
+    <option name="LAST_COMMIT_MESSAGE" value="task: content on about page, link to git hub" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="145" key="CommitChangelistDialog2" timestamp="1608181169531">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="616" y="145" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608181169531" />
+    <state x="450" y="208" key="SettingsEditor" timestamp="1608179924623">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="450" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1608179924623" />
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608181171692">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608181171692" />
+  </component>
+</project>

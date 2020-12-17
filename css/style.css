@@ -53,7 +53,7 @@ body {
     font-size: 33px;
     line-height: 52px;
     margin-bottom: 27px;
-    color: #6495ed;
+    color: whitesmoke;
 }
 #footer {
     clear: both;
@@ -87,6 +87,12 @@ p{
     font-family: "Roboto Light",serif;
     font-size: 20px;
 }
+.card-img{
+    align-content: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+}
 .card-img-top{
     align-content: center;
     padding-left: 25px;
@@ -99,7 +105,7 @@ p{
 .card-title {
     font-family: "Roboto Light",serif;
     align-content: center;
-    color: black;
+    color: #000000;
 }
 .card-text{
     font-family: "Roboto Light",serif;
@@ -116,7 +122,7 @@ p{
 
 .carousel
 {
-    background: #2f4357;
+    background: white;
 }
 .carousel-caption{
     font-family: serif ;

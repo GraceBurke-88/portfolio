@@ -1,15 +1,15 @@
 .navbar-brand {
-    font-family: serif;
+    font-family: "Roboto Light", serif;
 }
 .nav-link{
-    font-family: serif;
+    font-family: "Roboto Light", serif;
 
 }
 .dropdown-item{
-    font-family: serif;
+    font-family: "Roboto Light", serif;
 }
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Roboto Light", sans-serif;
     font-size: 22px;
     line-height: 37px;
     padding: 23px;
@@ -60,10 +60,8 @@ body {
     text-align: center;
 }
 h2 {
-    font-size: 36px;
+    font-size: 40px;
     line-height: 20px;
-    margin-top: 30px;
-    margin-bottom: 23px;
 }
 
 h3 {
@@ -74,7 +72,7 @@ h3 {
 }
 
 h4 {
-    font-size: 38px;
+    font-size: 25px;
     line-height: 20px;
     font-weight: bold;
     margin-bottom: 5px;
@@ -86,14 +84,28 @@ h5 {
     margin-bottom: 5px;
 }
 p{
-    font-family: serif;
+    font-family: "Roboto Light",serif;
+    font-size: 20px;
 }
-.card {
-    border: 1px white;
-    padding: 15px;
+.card-img-top{
+    align-content: center;
+    padding-left: 25px;
+    padding-right: 25px;
 }
-.card-title{
-    font-family: serif;
+.card-body{
+    background: white;
+    align-content: center;
+}
+.card-title {
+    font-family: "Roboto Light",serif;
+    align-content: center;
+    color: black;
+}
+.card-text{
+    font-family: "Roboto Light",serif;
+    align-content: center;
+    color: black;
+
 }
 .center {
     display: block;
@@ -115,7 +127,9 @@ p{
     background-color: lightgray;
 }
 .card {
-    background-color: lightgray;
+    margin-top: 45px;
+    border: none;
+    background-color: whitesmoke;
 }
 
 

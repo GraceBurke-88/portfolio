@@ -150,3 +150,25 @@ p{
     font-size: 18px;
     color: #6C63FF;
 }
+
+
+ body {
+     background-color: white;
+     padding: 30px;
+     font-family: "Roboto Light", sans-serif;
+ }
+
+img{
+    height:450px;
+    padding-left: 100px;
+    vertical-align: -200px;
+}
+
+h1{
+    display: inline-block;
+    padding-top: 100px;
+    padding-left: 50px;
+    font-family: "Roboto Light", serif;
+    font-size: 45px;
+
+}

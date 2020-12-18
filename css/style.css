@@ -103,6 +103,7 @@ p{
     align-content: center;
 }
 .card-title {
+    padding-top: 15px;
     font-family: "Roboto Light",serif;
     align-content: center;
     color: #000000;

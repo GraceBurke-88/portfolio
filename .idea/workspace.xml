@@ -72,7 +72,7 @@
       <workItem from="1608223993371" duration="363000" />
       <workItem from="1608224729420" duration="659000" />
       <workItem from="1608306692145" duration="5665000" />
-      <workItem from="1608339403450" duration="1022000" />
+      <workItem from="1608339403450" duration="2231000" />
     </task>
     <task id="LOCAL-00001" summary="task: added initial css and index page">
       <created>1608163076668</created>
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608312114184</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="bug: fixed image on about page">
+      <created>1608340663732</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608340663732</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,20 +218,21 @@
     <MESSAGE value="task: added content to about/projects" />
     <MESSAGE value="task: added links to footer, added images" />
     <MESSAGE value="bug: fixed image on index page" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug: fixed image on index page" />
+    <MESSAGE value="bug: fixed image on about page" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug: fixed image on about page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="145" key="CommitChangelistDialog2" timestamp="1608312114091">
+    <state x="616" y="145" key="CommitChangelistDialog2" timestamp="1608340663489">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="616" y="145" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608312114091" />
+    <state x="616" y="145" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608340663489" />
     <state x="450" y="208" key="SettingsEditor" timestamp="1608179924623">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="450" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1608179924623" />
-    <state x="631" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608311707904">
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608340665883">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="631" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608311707904" />
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608340665883" />
   </component>
 </project>

@@ -60,6 +60,7 @@ body {
     text-align: center;
 }
 h2 {
+    font-family: "Roboto Light", serif;
     font-size: 40px;
     line-height: 20px;
 }
@@ -91,13 +92,12 @@ p{
     align-content: center;
     padding-left: 25px;
     padding-right: 25px;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 .card-img-top{
     align-content: center;
     padding-left: 25px;
     padding-right: 25px;
+    padding-top: 200px;
 }
 .card-body{
     background: white;
@@ -114,6 +114,12 @@ p{
     align-content: center;
     color: black;
 
+}
+
+.card {
+    margin-top: 50px;
+    border: none;
+    background-color: whitesmoke;
 }
 .center {
     display: block;
@@ -133,11 +139,6 @@ p{
 }
 .jumbotron {
     background-color: lightgray;
-}
-.card {
-    margin-top: 45px;
-    border: none;
-    background-color: whitesmoke;
 }
 
 

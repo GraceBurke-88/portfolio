@@ -15,7 +15,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60400989-a861-4dd3-a51b-12ca1c28f1bc" name="Default Changelist" comment="" />
+    <list default="true" id="60400989-a861-4dd3-a51b-12ca1c28f1bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +68,7 @@
       <workItem from="1608223993371" duration="363000" />
       <workItem from="1608224729420" duration="659000" />
       <workItem from="1608306692145" duration="5665000" />
-      <workItem from="1608339403450" duration="2839000" />
+      <workItem from="1608339403450" duration="3123000" />
     </task>
     <task id="LOCAL-00001" summary="task: added initial css and index page">
       <created>1608163076668</created>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608342506166</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="bug: fixed gitHub link">
+      <created>1608343084636</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343084636</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,17 +248,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="bug: fixed gitHub link" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="145" key="CommitChangelistDialog2" timestamp="1608342506067">
+    <state x="616" y="145" key="CommitChangelistDialog2" timestamp="1608343084536">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="616" y="145" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608342506067" />
+    <state x="616" y="145" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608343084536" />
     <state x="450" y="208" key="SettingsEditor" timestamp="1608179924623">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="450" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1608179924623" />
-    <state x="631" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608342508559">
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608343086407">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="631" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608342508559" />
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608343086407" />
   </component>
 </project>

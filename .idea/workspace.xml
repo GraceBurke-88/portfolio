@@ -16,7 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60400989-a861-4dd3-a51b-12ca1c28f1bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1608223993371" duration="363000" />
       <workItem from="1608224729420" duration="659000" />
       <workItem from="1608306692145" duration="5665000" />
-      <workItem from="1608339403450" duration="3123000" />
+      <workItem from="1608339403450" duration="3431000" />
     </task>
     <task id="LOCAL-00001" summary="task: added initial css and index page">
       <created>1608163076668</created>
@@ -210,7 +210,42 @@
       <option name="project" value="LOCAL" />
       <updated>1608343084636</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="bug: fixed gitHub link">
+      <created>1608343145630</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343145630</updated>
+    </task>
+    <task id="LOCAL-00022" summary="bug: fixed gitHub link">
+      <created>1608343183652</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343183652</updated>
+    </task>
+    <task id="LOCAL-00023" summary="bug: fixed gitHub link">
+      <created>1608343226363</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343226363</updated>
+    </task>
+    <task id="LOCAL-00024" summary="bug: fixed gitHub link">
+      <created>1608343256096</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343256096</updated>
+    </task>
+    <task id="LOCAL-00025" summary="bug: fixed gitHub link">
+      <created>1608343355234</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343355234</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,17 +283,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="bug: fixed gitHub link" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="145" key="CommitChangelistDialog2" timestamp="1608343084536">
+    <state x="616" y="145" key="CommitChangelistDialog2" timestamp="1608343355143">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="616" y="145" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608343084536" />
+    <state x="616" y="145" key="CommitChangelistDialog2/0.25.1792.1095@0.25.1792.1095" timestamp="1608343355143" />
     <state x="450" y="208" key="SettingsEditor" timestamp="1608179924623">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="450" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1608179924623" />
-    <state x="631" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608343086407">
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2" timestamp="1608343357031">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
-    <state x="631" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608343086407" />
+    <state x="631" y="309" key="Vcs.Push.Dialog.v2/0.25.1792.1095@0.25.1792.1095" timestamp="1608343357031" />
   </component>
 </project>
